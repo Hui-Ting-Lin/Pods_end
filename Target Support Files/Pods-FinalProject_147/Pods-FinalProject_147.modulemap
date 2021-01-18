@@ -1,0 +1,6 @@
+framework module Pods_FinalProject_147 {
+  umbrella header "Pods-FinalProject_147-umbrella.h"
+
+  export *
+  module * { export * }
+}
